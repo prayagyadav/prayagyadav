@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 - 🔭 I’m currently working on building up my skills in Data Science
 - 🌱 I’m currently learning Data Manipulation with SQL
